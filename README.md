@@ -8,9 +8,9 @@ Entry for the [make.fun bounty](https://make.fun/bounty/u-phudinhvfx-one-line-sl
 
 `main.py` (Python 3 stdlib only, no network, deterministic) writes the slogan to `/output/entry.txt`:
 
-> A wallet that reads the market like a morning paper and moves your SOL before your coffee cools.
+> Your SOL's night-shift gardener: it prunes, plants, and harvests on the chain while you sleep.
 
-18 words, 96 characters — inside the gate (1–140 characters, at most 20 words, one line). It names the wallet, turns a fresh image instead of a stock crypto line, and says the promise plainly: the wallet reads the market and moves your SOL before you finish your coffee.
+15 words, 94 characters — inside the gate (1–140 characters, at most 20 words, one line). It names the wallet's job plainly and turns a fresh image instead of a stock crypto line: a night-shift gardener tending your SOL like plants, working the chain while you sleep.
 
 Run it with:
 
